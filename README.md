@@ -30,5 +30,5 @@ Built with a dual-phase architecture, **Phase 1** solves cross-subject non-stati
 ## 📊 Visualizations
 
 **Figure 1: Few-Shot Label Efficiency & Hardware Electrode Dropout Resilience**
-![Few-Shot SSL and Fault Tolerance](images/neuroguard_ssl_and_fault_tolerance.jpg)
+![Few-Shot SSL and Fault Tolerance](images/neuroguard_ssl_and_fault_tolerance.png)
 _Left: Unseen-subject generalization across 10%, 25%, 50%, and 100% labeled calibration budgets comparing `NeuroGuard` against an unaligned supervised CNN baseline. Right: Classification accuracy (green) and Bayesian predictive entropy (crimson) under progressive physical electrode disconnections (0 to 8 dead channels)._
