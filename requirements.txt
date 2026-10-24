@@ -1,0 +1,6 @@
+pyriemann
+onnx
+onnxscript
+onnxruntime
+joblib
+tqdm
